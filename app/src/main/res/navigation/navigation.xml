@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_overview">
+    <fragment
+        android:id="@+id/navigation_overview"
+        android:name="com.example.sportchallenge.presentation.overview.OverviewFragment"
+        android:label="Overview"
+        tools:layout="@layout/overview_fragment_layout" />
+    <fragment
+        android:id="@+id/navigation_leaderboard"
+        android:name="com.example.sportchallenge.presentation.leaderboard.LeaderboardFragment"
+        android:label="Leaderboard"
+        tools:layout="@layout/leaderboard_fragment_layout" />
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.sportchallenge.presentation.settings.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/settings_fragment_layout" />
+    <fragment
+        android:id="@+id/navigation_latestactivity"
+        android:name="com.example.sportchallenge.presentation.latestactivity.LatestActivityFragment"
+        android:label="Latest Activity"
+        tools:layout="@layout/latest_activity_layout" />
+</navigation>

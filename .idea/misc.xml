@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_leaderboard_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_heart.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_item.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/apps_items.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/latest_activity_layout.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/leaderboard_fragment_layout.xml" value="0.15274463007159905" />
+        <entry key="app/src/main/res/layout/overview_fragment_layout.xml" value="0.15311004784688995" />
+        <entry key="app/src/main/res/layout/settings_fragment_layout.xml" value="0.2463527233333178" />
+        <entry key="app/src/main/res/layout/user_leaderboard_item.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/menu/action_bar_menu.xml" value="0.2078125" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
